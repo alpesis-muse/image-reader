@@ -1,0 +1,11 @@
+# build
+_build
+
+# log
+log
+
+# editor
+*.swo
+*.swp
+*.swm
+*.swn
